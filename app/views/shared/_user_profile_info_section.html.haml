@@ -1,0 +1,10 @@
+%li.dropdown.user.user-menu.user_short_profile{user_id: user.id, user_name: user.name}
+  - user_name = get_user_info(user.name)
+  %a.dropdown-toggle{"data-toggle" => "dropdown", :href => "#"}
+    = image_tag "/assets/placeholder-img.jpg",:size=>"50x50", :class=>"user-image"
+    %span.hidden-xs #{user_name}
+  %ul.dropdown-menu
+    %li.user-header
+      = image_tag "/assets/placeholder-img.jpg",:size=>"50x50", :class=>"user-image"
+      %p
+        #{user_name}

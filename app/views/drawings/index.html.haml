@@ -1,0 +1,9 @@
+%section.content
+  .row
+    .col-md-3
+      .box.box-solid.color_pallate_section
+        = render partial: '/drawings/color_template_section'
+      .box.box-solid.leader_board_section
+        = render partial: '/drawings/drawing_summary_by_user', locals: {leader_board: @user_summary}
+    = render partial: '/drawings/user_drawing_section', locals: {drawings: @drawings}
+= javascript_include_tag 'drawings'
