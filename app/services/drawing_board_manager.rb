@@ -28,7 +28,6 @@ class DrawingBoardManager
   end
 
   private
-  # attr_accessor :params, :container, :color_code, :user_id, :user_name,:drawing
   attr_accessor :params, :drawing
 
   def save_drawing
