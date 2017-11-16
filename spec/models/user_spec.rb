@@ -37,6 +37,10 @@ RSpec.describe User, type: :model do
     it 'should return all users even though drawings were not created  by users' do
       expect(User.by_drawing_summary.size).to eq(5)
     end
+
+    it "should raise an ArgumentError error if arguments were passed" do
+      expect { User.by_drawing_summary("params") }.to raise_error(ArgumentError)
+    end
   end
 
 end

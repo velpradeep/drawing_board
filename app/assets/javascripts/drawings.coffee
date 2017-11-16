@@ -22,7 +22,6 @@ $('.square_box').click ->
     params = get_user_info()
     params.color_code = color
     params.container = $(this).attr("id")
-#    App.drawing_activity.drawing color, user.attr("user_id"), $(this).attr("id"),user.attr("user_id")
     App.drawing_activity.drawing params
   else
     initiate_color_pallate()

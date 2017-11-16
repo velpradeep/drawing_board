@@ -46,5 +46,9 @@ RSpec.describe Drawing, type: :model do
       expect(Drawing.by_drawing_area.size).to eq(2)
     end
 
+    it "should raise an ArgumentError error if arguments were passed" do
+      expect { Drawing.by_drawing_area("params") }.to raise_error(ArgumentError)
+    end
+
   end
 end

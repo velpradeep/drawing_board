@@ -1,4 +1,5 @@
 class DrawingBoardManager
+  attr_accessor :params, :drawing
 
   def initialize(data)
     self.params = data
@@ -28,7 +29,7 @@ class DrawingBoardManager
   end
 
   private
-  attr_accessor :params, :drawing
+
 
   def save_drawing
     @drawing = find_drawing_square
