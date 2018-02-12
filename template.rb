@@ -8,27 +8,61 @@ def apply_template!
 
   template "Gemfile.tt", :force => true
 
+  if apply_capistrano?
+    template "DEPLOYMENT.md.tt"
+    template "PROVISIONING.md.tt"
+  end
 
   template "README.md.tt", :force => true
   remove_file "README.rdoc"
 
+  template "example.env.tt"
   copy_file "gitignore", ".gitignore", :force => true
+  copy_file "overcommit.yml", ".overcommit.yml"
   template "ruby-version.tt", ".ruby-version"
+  copy_file "simplecov", ".simplecov"
 
+  copy_file "Capfile" if apply_capistrano?
+  copy_file "Guardfile"
   copy_file "Procfile"
 
-  # apply "app/template.rb"
+  apply "config.ru.rb"
+  apply "app/template.rb"
   apply "bin/template.rb"
-  # apply "config/template.rb"
-  # apply "doc/template.rb"
-  # apply "lib/template.rb"
-  # apply "test/template.rb"
-  #
-  #
+  apply "circleci/template.rb"
+  apply "config/template.rb"
+  apply "doc/template.rb"
+  apply "lib/template.rb"
+  apply "test/template.rb"
 
-  #
+  apply "variants/bootstrap/template.rb" if apply_bootstrap?
+
+  git :init unless preexisting_git_repo?
+  empty_directory ".git/safe"
+
   run_with_clean_bundler_env "bin/setup"
+  create_initial_migration
+  generate_spring_binstubs
 
+  binstubs = %w[
+    annotate brakeman bundler bundler-audit guard rubocop sidekiq
+    terminal-notifier
+  ]
+  binstubs.push("capistrano", "unicorn") if apply_capistrano?
+  run_with_clean_bundler_env "bundle binstubs #{binstubs.join(' ')} --force"
+
+  template "rubocop.yml.tt", ".rubocop.yml"
+  run_rubocop_autocorrections
+
+  unless any_local_git_commits?
+    git :add => "-A ."
+    git :commit => "-n -m 'Set up project'"
+    git :checkout => "-b development" if apply_capistrano?
+    if git_repo_specified?
+      git :remote => "add origin #{git_repo_url.shellescape}"
+      git :push => "-u origin --all"
+    end
+  end
 end
 
 require "fileutils"
@@ -39,27 +73,17 @@ require "shellwords"
 # invoked remotely via HTTP, that means the files are not present locally.
 # In that case, use `git clone` to download them to a local temporary dir.
 def add_template_repository_to_source_path
-  p "111111111111111111111"
-  p "111111111111111111111"
-  p "111111111111111111111"
-  p "111111111111111111111"
-  p "Murugaa saranam................"
-  p "Murugaa saranam................"
-  p "Murugaa saranam................"
   if __FILE__ =~ %r{\Ahttps?://}
-    p "Murugaaaaaaaaaaaaaaaaaaa"
-    p "666666"
-    p "666666"
-    p "666666"
-    p "666666"
     require "tmpdir"
     source_paths.unshift(tempdir = Dir.mktmpdir("rails-template-"))
     at_exit { FileUtils.remove_entry(tempdir) }
+    p "2222222222222222222222222"
+    p "2222222222222222222222222"
+    p "2222222222222222222222222"
     git :clone => [
-      "--quiet",
-      # "https://github.com/mattbrictson/rails-template.git",
-      "https://github.com/Mashey/mashey.com.git",
-      tempdir
+        "--quiet",
+        "https://github.com/mattbrictson/rails-template.git",
+        tempdir
     ].map(&:shellescape).join(" ")
 
     if (branch = __FILE__[%r{rails-template/(.+)/template.rb}, 1])
@@ -83,11 +107,11 @@ end
 # Bail out if user has passed in contradictory generator options.
 def assert_valid_options
   valid_options = {
-    :skip_gemfile => false,
-    :skip_bundle => false,
-    :skip_git => false,
-    :skip_test_unit => false,
-    :edge => false
+      :skip_gemfile => false,
+      :skip_bundle => false,
+      :skip_git => false,
+      :skip_test_unit => false,
+      :edge => false
   }
   valid_options.each do |key, expected|
     next unless options.key?(key)
@@ -105,6 +129,27 @@ def assert_postgresql
        "but the pg gem isn’t present in your Gemfile."
 end
 
+# Mimic the convention used by capistrano-mb in order to generate
+# accurate deployment documentation.
+def capistrano_app_name
+  app_name.gsub(/[^a-zA-Z0-9_]/, "_")
+end
+
+def git_repo_url
+  @git_repo_url ||=
+      ask_with_default("What is the git remote URL for this project?", :blue, "skip")
+end
+
+def production_hostname
+  @production_hostname ||=
+      ask_with_default("Production hostname?", :blue, "example.com")
+end
+
+def staging_hostname
+  @staging_hostname ||=
+      ask_with_default("Staging hostname?", :blue, "staging.example.com")
+end
+
 def gemfile_requirement(name)
   @original_gemfile ||= IO.read("Gemfile")
   req = @original_gemfile[/gem\s+['"]#{name}['"]\s*(,[><~= \t\d\.\w'"]*)?.*$/, 1]
@@ -118,15 +163,44 @@ def ask_with_default(question, color, default)
   answer.to_s.strip.empty? ? default : answer
 end
 
+def git_repo_specified?
+  git_repo_url != "skip" && !git_repo_url.strip.empty?
+end
+
 def preexisting_git_repo?
   @preexisting_git_repo ||= (File.exist?(".git") || :nope)
   @preexisting_git_repo == true
 end
 
+def any_local_git_commits?
+  system("git log &> /dev/null")
+end
+
+def apply_bootstrap?
+  ask_with_default("Use Bootstrap gems, layouts, views, etc.?", :blue, "no")\
+    =~ /^y(es)?/i
+end
+
+def apply_capistrano?
+  return @apply_capistrano if defined?(@apply_capistrano)
+  @apply_capistrano = \
+    ask_with_default("Use Capistrano for deployment?", :blue, "no") \
+    =~ /^y(es)?/i
+end
 
 def run_with_clean_bundler_env(cmd)
   return run(cmd) unless defined?(Bundler)
   Bundler.with_clean_env { run(cmd) }
+end
+
+def run_rubocop_autocorrections
+  run_with_clean_bundler_env "bin/rubocop -a --fail-level A > /dev/null"
+end
+
+def create_initial_migration
+  return if Dir["db/migrate/**/*.rb"].any?
+  run_with_clean_bundler_env "bin/rails generate migration initial_migration"
+  run_with_clean_bundler_env "bin/rake db:migrate"
 end
 
 apply_template!
