@@ -1,6 +1,12 @@
 RAILS_REQUIREMENT = "~> 5.1.0".freeze
 
+p "Muruga Saranam"
+p "1111111111111111111111111111111111111111111111"
+
 def apply_template!
+  p "22222222222222222222222222"
+  p "22222222222222222222222222"
+
   assert_minimum_rails_version
   assert_valid_options
   assert_postgresql
