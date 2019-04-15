@@ -1,14 +1,12 @@
 BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
-PRODID:-//Teamup Solutions AG//Teamup Calendar//EN
+CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Event Calendar | Academic Calendar Registrar > Queens\, Staten
-  Island\, Manhattan\, Hauppauge
-X-WR-CALDESC:Public Version-3508993
-X-PUBLISHED-TTL:PT15M
+X-WR-CALNAME:Academic Calendar and Events
+X-WR-TIMEZONE:America/New_York
 BEGIN:VTIMEZONE
 TZID:America/New_York
-TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
 X-LIC-LOCATION:America/New_York
 BEGIN:DAYLIGHT
 TZOFFSETFROM:-0500
@@ -26,481 +24,3907 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:TU202923934
-DTSTART;VALUE=DATE:20181101
-SEQUENCE:0
+DTSTART:20190417T203000Z
+DTEND:20190417T213000Z
+DTSTAMP:20190415T053712Z
+UID:6u171hevcgi9p87vv4351mcchu@google.com
+CREATED:20190403T192422Z
+DESCRIPTION:Refreshments served in Spiers Gallery while students and guests
+  enjoy the Senior Art Exhibition.
+LAST-MODIFIED:20190411T194749Z
+LOCATION:Spiers Gallery\, 1 Brevard College Dr\, Brevard\, NC 28712\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Fine Arts Honors/Awards Refreshments
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181102
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923934
-SUMMARY:All Saint's Day – No Classes (Queens\, Staten Island\, Manhattan\
- , Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Human Resources\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20190110T211347Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923935
-DTSTART;VALUE=DATE:20181109
-SEQUENCE:0
+DTSTART:20190417T183000Z
+DTEND:20190417T203000Z
+DTSTAMP:20190415T053712Z
+UID:41p5uchhi5gm4ec36e2bc36fhk@google.com
+CREATED:20190403T192126Z
+DESCRIPTION:
+LAST-MODIFIED:20190411T194740Z
+LOCATION:The Porter Center\, Francis Pavilion
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Fine Arts Honors and Awards Ceremony and Recital
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181110
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923935
-SUMMARY:Last Day to Withdraw from a Class or Apply for Pass/Fail Option (Fa
- ll Session) (Queens\, Staten Island\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20180801T185704Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923936
-DTSTART;VALUE=DATE:20181112
+DTSTART:20190411T200000Z
+DTEND:20190411T210000Z
+DTSTAMP:20190415T053712Z
+UID:7p4joo9n2nakf4c4fbpj0gb063@google.com
+CREATED:20190403T191808Z
+DESCRIPTION:
+LAST-MODIFIED:20190403T191808Z
+LOCATION:MG 125
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Humanities Division Awards Ceremony
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181113
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923936
-SUMMARY:Veterans Day Observed – No Classes (Queens\, Staten Island\, Manh
- attan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20190110T205008Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923938
-DTSTART;VALUE=DATE:20181121
+DTSTART:20190409T200000Z
+DTEND:20190409T210000Z
+DTSTAMP:20190415T053712Z
+UID:73if0i23i10o64l7m39u8h6pfk@google.com
+CREATED:20190402T153719Z
+DESCRIPTION:
+LAST-MODIFIED:20190402T153719Z
+LOCATION:Scott Commons\, Porter Center
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Div. of Science and Mathematics Honors and Awards Ceremony
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181125
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923938
-SUMMARY:Thanksgiving Recess – No Classes (Queens\, Staten Island\, Manhat
- tan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20190110T205612Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923939
-DTSTART;VALUE=DATE:20181208
+DTSTART:20190422T163000Z
+DTEND:20190422T174500Z
+DTSTAMP:20190415T053712Z
+UID:7frgc0e7l7j6gva7b2fn0eqm71@google.com
+CREATED:20190326T143704Z
+DESCRIPTION:Dr. Horner will be available for a special discussion Q&A sessi
+ on for interested Brevard College students\, faculty\, and staff.
+LAST-MODIFIED:20190326T143704Z
+LOCATION:MG 125
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dr. Jack Horner\, J.R. McDowell Speaker\, Q &A Session
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181209
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923939
-SUMMARY:Feast of the Immaculate Conception - No Classes (Queens\, Staten Is
- land\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20190110T205745Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923940
-DTSTART;VALUE=DATE:20181212
+DTSTART:20190422T223000Z
+DTEND:20190423T003000Z
+DTSTAMP:20190415T053712Z
+UID:69fovlttu1lfq6p4dtck9jp77d@google.com
+CREATED:20190326T130856Z
+DESCRIPTION:Jack Horner is a dyslexic paleontologist!  He is also a Preside
+ ntial Fellow at Chapman University in Orange\, CA\, and Regent’s Professor 
+ of Paleontology at Montana State University in Bozeman\, MT.  He is known f
+ or his groundbreaking discoveries of the first dinosaur eggs in the Western
+  Hemisphere\, the first evidence of dinosaur colonial nesting\, the first e
+ vidence of parental care among dinosaurs\, and the first dinosaur embryos. 
+  He is widely regarded as one of the world’s foremost paleontologists\, not
+ ed for his fieldwork in Montana where he has amassed one of America’s large
+ st dinosaur collections.
+LAST-MODIFIED:20190326T130856Z
+LOCATION:Ingram Auditorium 
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:“Dinosaurs of the Past\, the Present\, and the Future” Dr. Jack Hor
+ ner\, J.R. McDowell Speaker
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181213
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923940
-SUMMARY:Snow/Study Day (Queens\, Staten Island\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20180801T185721Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923941
-DTSTART;VALUE=DATE:20181213
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181220
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923941
-SUMMARY:Final Examination Week (Queens\, Staten Island\, Manhattan\, Hauppa
- uge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20180801T185724Z
+DTSTART:20190416T203000Z
+DTEND:20190416T211500Z
+DTSTAMP:20190415T053712Z
+UID:2bkeas574d5atah79lhp3vr24g@google.com
+CREATED:20190125T212742Z
+DESCRIPTION:
+LAST-MODIFIED:20190322T190837Z
+LOCATION:Ingram Auditorium
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Honors and Awards Ceremony (regular class schedule) Ingram Auditori
+ um\, 4:30 p.m.
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923942
-DTSTART;VALUE=DATE:20190121
+DTSTART:20190416T211500Z
+DTEND:20190416T220000Z
+DTSTAMP:20190415T053712Z
+UID:7l9v1ljfl3dlas7nkbt6nnvl90@google.com
+CREATED:20190322T190822Z
+DESCRIPTION:
+LAST-MODIFIED:20190322T190822Z
+LOCATION:Jones Library
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Honors and Awards Ceremony Reception
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190122
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923942
-SUMMARY:Martin Luther King\, Jr. Day – No Classes (Queens\, Staten Island
- \, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20190110T210048Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923943
-DTSTART;VALUE=DATE:20190123
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190124
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923943
-SUMMARY:First Day of Classes (Spring Session) (Queens\, Staten Island\, Man
- hattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185444Z
-LAST-MODIFIED:20180801T185734Z
+DTSTART;VALUE=DATE:20200512
+DTEND;VALUE=DATE:20200513
+RRULE:FREQ=DAILY;UNTIL=20200514
+DTSTAMP:20190415T053712Z
+UID:mc38qppg7bdckpt7h3kf0bpvks@google.com
+CREATED:20190125T213758Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154912Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Faculty Development Days
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923944
-DTSTART;VALUE=DATE:20190129
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190130
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923944
-SUMMARY:Last Day to Add/Drop Classes (Spring Session) (Queens\, Staten Isla
- nd\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185736Z
+DTSTART;VALUE=DATE:20200508
+DTEND;VALUE=DATE:20200509
+RRULE:FREQ=DAILY;UNTIL=20200509
+DTSTAMP:20190415T053712Z
+UID:jo8qgsrv0eaf6u7b9k6illtn98@google.com
+CREATED:20190125T213745Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154849Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Commencement Weekend
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923945
-DTSTART;VALUE=DATE:20190212
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190213
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923945
-SUMMARY:Last Day to Drop a Class (without a transcript notation) (Spring Se
- ssion) (Queens\, Staten Island\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185739Z
+DTSTART;VALUE=DATE:20200503
+DTEND;VALUE=DATE:20200504
+RRULE:FREQ=DAILY;UNTIL=20200508
+DTSTAMP:20190415T053712Z
+UID:lkr5h1bkaog8rk95chjp1566fc@google.com
+CREATED:20190125T213729Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154830Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Final Reflection and Assessment Week
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923946
-DTSTART;VALUE=DATE:20190213
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190214
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923946
-SUMMARY:Withdrawal Period Begins (Spring Session) (Queens\, Staten Island\,
-  Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185746Z
+DTSTART;VALUE=DATE:20200410
+DTEND;VALUE=DATE:20200411
+RRULE:FREQ=DAILY;UNTIL=20200412
+DTSTAMP:20190415T053712Z
+UID:ad6d6hhgechsk4h3utt2a5dcto@google.com
+CREATED:20190125T213649Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154806Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Easter Break (no classes)
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923947
-DTSTART;VALUE=DATE:20190218
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190219
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923947
-SUMMARY:President's Day – No Classes (Queens\, Staten Island\, Manhattan\
- , Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20190110T210121Z
+DTSTART;VALUE=DATE:20200330
+DTEND;VALUE=DATE:20200331
+RRULE:FREQ=DAILY;UNTIL=20200403
+DTSTAMP:20190415T053712Z
+UID:msv5pngalgsd9tt9bpkqbd6k0s@google.com
+CREATED:20190125T213637Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154738Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Pre-Registration for Fall 2020 Semester
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923948
-DTSTART;VALUE=DATE:20190220
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190221
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923948
-SUMMARY:Monday Classes Meet (Queens\, Staten Island\, Manhattan\, Hauppauge
- )
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185755Z
+DTSTART;VALUE=DATE:20200307
+DTEND;VALUE=DATE:20200308
+RRULE:FREQ=DAILY;UNTIL=20200315
+DTSTAMP:20190415T053712Z
+UID:dsqra6tm6f69gkc1bu32la4tt8@google.com
+CREATED:20190125T213607Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154710Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spring Break (no classes)
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923949
-DTSTART;VALUE=DATE:20190304
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190310
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923949
-SUMMARY:Spring Break – No Classes (Queens\, Staten Island\, Manhattan\, H
- auppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185757Z
+DTSTART;VALUE=DATE:20191208
+DTEND;VALUE=DATE:20191209
+RRULE:FREQ=DAILY;UNTIL=20191213
+DTSTAMP:20190415T053712Z
+UID:9vdrmte7qog9umgcbsaaqdkfvg@google.com
+CREATED:20190125T213441Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154634Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Final Reflection and Assessment Week
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923950
-DTSTART;VALUE=DATE:20190405
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190406
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923950
-SUMMARY:Last day to Withdraw from a Class of Apply for a Pass/Fail Option (
- Spring Session) (Queens\, Staten Island\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20190110T210338Z
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+RRULE:FREQ=DAILY;UNTIL=20191201
+DTSTAMP:20190415T053712Z
+UID:iap3uj3klrpphhmv8ks5nlon6k@google.com
+CREATED:20190125T213414Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154609Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Break (no classes)
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923951
-DTSTART;VALUE=DATE:20190418
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190423
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923951
-SUMMARY:Easter Recess – No Classes (Queens\, Staten Island\, Manhattan\, 
- Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20190110T210350Z
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+RRULE:FREQ=DAILY;UNTIL=20191108
+DTSTAMP:20190415T053712Z
+UID:khb6c8suijj3gthvr3umvfgkss@google.com
+CREATED:20190125T213354Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154546Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Pre-registration for Spring 2020 Semester
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923952
+DTSTART;VALUE=DATE:20191012
+DTEND;VALUE=DATE:20191013
+RRULE:FREQ=DAILY;UNTIL=20191020
+DTSTAMP:20190415T053712Z
+UID:mlam8rktg46nof7sd6bngm1pvo@google.com
+CREATED:20190125T213315Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154453Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Fall Break (no classes)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+RRULE:FREQ=DAILY;UNTIL=20191006
+DTSTAMP:20190415T053712Z
+UID:ifqjt6geotf1osh026nlt6vgro@google.com
+CREATED:20190125T213251Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154342Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Homecoming
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+RRULE:FREQ=DAILY;UNTIL=20190915
+DTSTAMP:20190415T053712Z
+UID:j957s1t6245o74desqe9u00fps@google.com
+CREATED:20190125T213210Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154320Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Family Weekend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+RRULE:FREQ=DAILY;UNTIL=20190816
+DTSTAMP:20190415T053712Z
+UID:q30u69slpabv0durk9cnmuo7gs@google.com
+CREATED:20190125T213102Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T154255Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Faculty Development and Governance Days
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190507
-SEQUENCE:0
-TRANSP:OPAQUE
 DTEND;VALUE=DATE:20190508
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923952
-SUMMARY:Snow/Study Day (Queens\, Staten Island\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185804Z
+RRULE:FREQ=DAILY;UNTIL=20190509
+DTSTAMP:20190415T053712Z
+UID:p07c1dfv6g2frkn3gmb8im90u8@google.com
+CREATED:20190125T212940Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T153142Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Faculty Development Days
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923954
-DTSTART;VALUE=DATE:20190508
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190509
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923954
-SUMMARY:Snow/Study Day (Queens\, Staten Island\, Manhattan\, Hauppauge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185807Z
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+RRULE:FREQ=DAILY;UNTIL=20190504
+DTSTAMP:20190415T053712Z
+UID:6v93dpvdmdg38pvqu42lkdsbds@google.com
+CREATED:20190125T212925Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T153114Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Commencement Weekend
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU202923955
-DTSTART;VALUE=DATE:20190509
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190516
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923955
-SUMMARY:Final Examination Week (Queens\, Staten Island\, Manhattan\, Hauppa
- uge)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20180801T185445Z
-LAST-MODIFIED:20180801T185809Z
+DTSTART;VALUE=DATE:20190428
+DTEND;VALUE=DATE:20190429
+RRULE:FREQ=DAILY;UNTIL=20190503
+DTSTAMP:20190415T053712Z
+UID:0qtapjou234c6lvk8mpo6ng6bk@google.com
+CREATED:20190125T212906Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T153038Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Final Reflection and Assessment Week
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU265848503
-DTSTART;VALUE=DATE:20181016
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181017
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/265848503
-SUMMARY:Mid-term grades due (Queens\, Staten Island\, Manhattan\, Hauppage)
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Faculty\, Students\n\nBy Invitation Only: Open Invitation\n\nRegistra
- tion Required: No Registration Required\n\nDept/Area Event Manager: Regist
- rar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20190110T204522Z
+DTSTART;VALUE=DATE:20190419
+DTEND;VALUE=DATE:20190420
+RRULE:FREQ=DAILY;WKST=SU;UNTIL=20190421
+DTSTAMP:20190415T053712Z
+UID:28u0qmv0ob6gotj69q0akp7cg0@google.com
+CREATED:20190125T212755Z
+DESCRIPTION:
+LAST-MODIFIED:20190313T152930Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Easter Break (no classes)
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:TU265853632
-DTSTART;VALUE=DATE:20181211
+DTSTART:20190318T180000Z
+DTEND:20190318T184500Z
+DTSTAMP:20190415T053712Z
+UID:6cilib92e6j2s0mvh645458jfs@google.com
+CREATED:20190307T200223Z
+DESCRIPTION:This session is open to anyone who is interested in hearing/see
+ ing an overview of free or inexpensive learning tools that can help make le
+ arning more accessible and efficient. \n\nVarious audio notetaking Apps\, T
+ ext-to-Speech Programs\, Mind Mapping\, Editing/Voice Dictation tools will 
+ be featured.  Bring your phone and/or laptop if you like. BC Radar points w
+ ill be made available. \n\nFor more information\, contact Kathleen Koontz  
+ koontzkh@brevard.edu.
+LAST-MODIFIED:20190307T200223Z
+LOCATION:ELC Learning Bar - Jones Library
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:There's an APP for That-Technology Tools to Enhance Individual Lear
+ ning Styles
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20181212
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/265853632
-SUMMARY:Last Day of Classes (Queens\, Staten Island\, Manhattan\, Hauppauge
- )
-CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20190110T205820Z
-LAST-MODIFIED:20190110T205833Z
 END:VEVENT
 BEGIN:VEVENT
-UID:TU265855345
-DTSTART;VALUE=DATE:20190316
+DTSTART:20190318T150000Z
+DTEND:20190318T154500Z
+DTSTAMP:20190415T053712Z
+UID:4vg0k5p57ksteomj0cmc9iabl9@google.com
+CREATED:20190307T200041Z
+DESCRIPTION:This session is open to anyone who is interested in hearing/see
+ ing an overview of free or inexpensive learning tools that can help make le
+ arning more accessible and efficient. \n\nVarious audio notetaking Apps\, T
+ ext-to-Speech Programs\, Mind Mapping\, Editing/Voice Dictation tools will 
+ be featured.  Bring your phone and/or laptop if you like. BC Radar points w
+ ill be made available. \n\nFor more information\, contact Kathleen Koontz  
+ koontzkh@brevard.edu.
+LAST-MODIFIED:20190307T200041Z
+LOCATION:ELC Learning Bar - Jones Library
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:There's an APP for That-Technology Tools to Enhance Individual Lear
+ ning Styles 
 TRANSP:OPAQUE
-DTEND;VALUE=DATE:20190317
-URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/265855345
-SUMMARY:Mid-Term Grades Due (Queens\, Staten Island\, Manhattan\, Hauppauge
- )
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T230000Z
+DTEND:20190314T000000Z
+DTSTAMP:20190415T053712Z
+UID:648vp4gophaqsbnu8iurdrjbd8@google.com
+CREATED:20190306T224046Z
+DESCRIPTION:Fred Bahnson is the author of Soil & Sacrament (Simon & Schuste
+ r). His essays have appeared in Harper’s\, Emergence\, Oxford American\, Im
+ age\, Orion\, The Sun\, Washington Post\, and Best American Spiritual Writi
+ ng. He is the recipient of a Kellogg Food & Community Fellowship\, a North 
+ Carolina Artist Fellowship in creative nonfiction\, and a Terry Tempest Wil
+ liams Fellowship for Land & Justice at the Mesa Refuge. He teaches at Wake 
+ Forest University School of Divinity and directs the Food\, Health\, and Ec
+ ological Well-being Program. 
+LAST-MODIFIED:20190306T224149Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Into the Mystic"\, a presentation by author Fred Bahnson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+RRULE:FREQ=DAILY;UNTIL=20190329
+DTSTAMP:20190415T053712Z
+UID:o40kuutggsbe35ocrb0utespd4@google.com
+CREATED:20190125T212636Z
+DESCRIPTION:
+LAST-MODIFIED:20190306T214729Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Pre-Registration for Fall 2019 Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T230000Z
+DTEND:20190403T000000Z
+DTSTAMP:20190415T053712Z
+UID:16qd1tv0pk3bds934r1fh4o3ha@google.com
+CREATED:20190226T154709Z
+DESCRIPTION:English Language Learners: How Schools Can Continue to be a Bea
+ con of Hope
+LAST-MODIFIED:20190226T154709Z
+LOCATION:MG 115
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:English Language Learners: How Schools Can Continue to be a Beacon 
+ of Hope
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T213000Z
+DTEND:20190320T223000Z
+DTSTAMP:20190415T053712Z
+UID:5g1qljtouqrihgvjh4k8najtpd@google.com
+CREATED:20190226T154553Z
+DESCRIPTION:Understanding Friends: A Hands-On Workshop and Presentation on 
+ Autism Spectrum Disorder
+LAST-MODIFIED:20190226T154553Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Understanding Friends: A Hands-On Workshop and Presentation on Auti
+ sm Spectrum Disorder
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T234500Z
+DTEND:20190301T011500Z
+DTSTAMP:20190415T053712Z
+UID:4tscgkhe581bcubic8fe5mqvih@google.com
+CREATED:20190226T154214Z
+DESCRIPTION:Understanding Impact of Poverty and Race in Classroom Settings
+LAST-MODIFIED:20190226T154429Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Understanding Impact of Poverty and Race in Classroom Settings
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T224500Z
+DTEND:20190320T001500Z
+DTSTAMP:20190415T053712Z
+UID:0k23bno7p44vr2l61kqdu0t9oj@google.com
+CREATED:20190226T154412Z
+DESCRIPTION:Looking Beyond Stereotypes: Welcoming LGBT Students
+LAST-MODIFIED:20190226T154412Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Looking Beyond Stereotypes: Welcoming LGBT Students
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T210000Z
+DTEND:20190226T223000Z
+DTSTAMP:20190415T053712Z
+UID:3s59d9i5q41runro945c8o9gvg@google.com
+CREATED:20190125T212511Z
+DESCRIPTION:Faculty Meeting
+LAST-MODIFIED:20190213T203517Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T200000Z
+DTEND:20190326T213000Z
+DTSTAMP:20190415T053712Z
+UID:3n801ltpuerjif17lirqpqnr5j@google.com
+CREATED:20190212T140211Z
+DESCRIPTION:
+LAST-MODIFIED:20190212T140211Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T000000Z
+DTEND:20190219T013000Z
+DTSTAMP:20190415T053712Z
+UID:7h56s85tfsdc44lkto8qllmb0n@google.com
+CREATED:20190128T180052Z
+DESCRIPTION:Refugee\, World Citizen\, Holocaust Survivor \nand Storyteller
+LAST-MODIFIED:20190205T182604Z
+LOCATION:Dunham Auditorium Building
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Speaker Walter Blass - Refugee\, World Citizen\, Holocaust Survivor
+   and Storyteller
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T000000Z
+DTEND:20190206T010000Z
+DTSTAMP:20190415T053712Z
+UID:377875g6ct50q4h012a8qm8m2q@google.com
+CREATED:20190205T173820Z
+DESCRIPTION:Come Learn about Dyslexia from Wendi Adair
+LAST-MODIFIED:20190205T173820Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Diversity Forum - Dyslexia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20190415T053712Z
+UID:7ss66p006mv1s8p44878lfiv65@google.com
+CREATED:20190129T192133Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T192133Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term B - Grades for Summer Term B Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190728
+DTEND;VALUE=DATE:20190729
+DTSTAMP:20190415T053712Z
+UID:3hulh0ifulvlnruqaloadvri4e@google.com
+CREATED:20190129T192059Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T192059Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term B - Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190624
+DTEND;VALUE=DATE:20190625
+DTSTAMP:20190415T053712Z
+UID:3fbe25184f34km92b1r4fou7jv@google.com
+CREATED:20190129T191754Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T191754Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term B - Last Day to Withdraw from a Summer Term B Course wi
+ th a Grade of W (no withdrawal from a course is permitted after this deadli
+ ne)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20190415T053712Z
+UID:7k5c5lcgveacu4f2usfgb3120v@google.com
+CREATED:20190129T191655Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T191655Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term B - Last Day to Drop a Summer Term B Course without a r
+ ecord
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20190415T053712Z
+UID:0ms406n13lrk79nt4cih6cpnsh@google.com
+CREATED:20190129T190248Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T191426Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term A - Last Day to Drop a Summer Term A Course without a R
+ ecord
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20190415T053712Z
+UID:16pkmd64mvfuq0c4c9es149kda@google.com
+CREATED:20190129T190224Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T191405Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term A - Last Day to Add a Summer Term A Course 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20190415T053712Z
+UID:06366l5e93f2n3g7mk86pfaan3@google.com
+CREATED:20190129T191331Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T191331Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term B - Last Day to Add a Summer Term B Course
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20190415T053712Z
+UID:3iotrgvk11qc8kg1q6uf144iip@google.com
+CREATED:20190129T191305Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T191305Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term B Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20190415T053712Z
+UID:435bb68avp7bl0uffeo51vodi6@google.com
+CREATED:20190129T190456Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T190456Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grades for Summer Term A due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190819
+DTEND;VALUE=DATE:20190820
+DTSTAMP:20190415T053712Z
+UID:5lvi3lb5m9tflc4uj4p5ccjfuv@google.com
+CREATED:20190129T190433Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T190433Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Summer Term A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20190415T053712Z
+UID:6arhqfgurdvfeeul1o7a5r7eld@google.com
+CREATED:20190129T190349Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T190349Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term A - Last Day to Withdraw from a Summer Term A course wi
+ th a Grade of W (no withdrawal from a course permitted after this deadline)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20190415T053712Z
+UID:5629anc5cpt209n08bsrodas5k@google.com
+CREATED:20190129T190143Z
+DESCRIPTION:
+LAST-MODIFIED:20190129T190143Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Term A Begins
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200523
+DTEND;VALUE=DATE:20200524
+DTSTAMP:20190415T053712Z
+UID:djv0uvb3h59pnts1fbt8tb0h5s@google.com
+CREATED:20190125T213807Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213807Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Student Orientation Advising and Registration (SOAR)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200430
+DTEND;VALUE=DATE:20200501
+DTSTAMP:20190415T053712Z
+UID:g725qtt7ll46nqqno8i25d3eus@google.com
+CREATED:20190125T213718Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213718Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200421
+DTEND;VALUE=DATE:20200422
+DTSTAMP:20190415T053712Z
+UID:umkjja6p1mvm28d87o8kdpj604@google.com
+CREATED:20190125T213708Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213708Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Honors and Awards Day Ceremony (regular class schedule) Ingram Audi
+ torium\, 4:30 PM
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200418
+DTEND;VALUE=DATE:20200419
+DTSTAMP:20190415T053712Z
+UID:cchgkopebb87lhq707idktai84@google.com
+CREATED:20190125T213659Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213700Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Student Orientation Advising and Registration (SOAR) (Faculty Work 
+ Day)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200327
+DTEND;VALUE=DATE:20200328
+DTSTAMP:20190415T053712Z
+UID:hdq5ut8quc1d3eof9d35oeg05g@google.com
+CREATED:20190125T213629Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213629Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from a Spring Semester Course with a Grade of 
+ W (no withdrawal from a course is permitted after this deadline)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200326
+DTEND;VALUE=DATE:20200327
+DTSTAMP:20190415T053712Z
+UID:hk8940srhbm7gfqdgq7ejfuk78@google.com
+CREATED:20190125T213622Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213622Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advising Day (no classes) Students meet with Advisors and attend th
+ e Job and Grad Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200304
+DTEND;VALUE=DATE:20200305
+DTSTAMP:20190415T053712Z
+UID:04ksn515p2a7igv8r5dqobje38@google.com
+CREATED:20190125T213559Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213559Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-term Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200212
+DTEND;VALUE=DATE:20200213
+DTSTAMP:20190415T053712Z
+UID:9ib66gp3p302mikqu53v8948gg@google.com
+CREATED:20190125T213547Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213547Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Grade of Incomplete from Preceding Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200210
+DTEND;VALUE=DATE:20200211
+DTSTAMP:20190415T053712Z
+UID:hvtff62ftbgqu9di744pafb65k@google.com
+CREATED:20190125T213538Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213538Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Graduation Applications for December 2020 Due in the Office of the 
+ Registrar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200127
+DTEND;VALUE=DATE:20200128
+DTSTAMP:20190415T053712Z
+UID:nkvn5guudhae1ojfqgn4bhfhs0@google.com
+CREATED:20190125T213526Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213526Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Drop a Spring Course Without a Record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200120
+DTEND;VALUE=DATE:20200121
+DTSTAMP:20190415T053712Z
+UID:evhdvknk45jpgb5f0634b19f0c@google.com
+CREATED:20190125T213517Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213517Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Martin Luther King\, Jr. Day (no classes)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200120
+DTEND;VALUE=DATE:20200121
+DTSTAMP:20190415T053712Z
+UID:d5se3em894p7p5lp6p0v3gc76o@google.com
+CREATED:20190125T213509Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213509Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses for Spring Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200113
+DTEND;VALUE=DATE:20200114
+DTSTAMP:20190415T053712Z
+UID:8f7t0a3ukibfcfq00hmq0ec83g@google.com
+CREATED:20190125T213501Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213501Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20190415T053712Z
+UID:anmjlece1uc6rgavfnkpulmjqc@google.com
+CREATED:20190125T213432Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213432Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20190415T053712Z
+UID:kqe2g5g3g25vkmusd1soob16bk@google.com
+CREATED:20190125T213346Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213346Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from a Course with a grade of W (no withdrawal
+  from a course is permitted after this deadline)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20190415T053712Z
+UID:st480err7migbfoghddq395jg4@google.com
+CREATED:20190125T213330Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213330Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advising Day (no classes) - Students meet with Advisors and attend 
+ the Majors Fair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20190415T053712Z
+UID:933nvsbv94v8uo2q9hr28op8lc@google.com
+CREATED:20190125T213301Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213301Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-term Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190916
+DTEND;VALUE=DATE:20190917
+DTSTAMP:20190415T053712Z
+UID:89iutoe8c492og9hehdv97l4bs@google.com
+CREATED:20190125T213219Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213219Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Grade of Incomplete from Preceding Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20190415T053712Z
+UID:3arb5pkfgofbpnuuqujj33r08s@google.com
+CREATED:20190125T213201Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213201Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Drop a Course Without a Record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20190415T053712Z
+UID:qp54dand68hlckuocv3euo9s74@google.com
+CREATED:20190125T213147Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213147Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20190415T053712Z
+UID:q91om623jgtsbg6j2jcbsg6d6k@google.com
+CREATED:20190125T213137Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213137Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190819
+DTEND;VALUE=DATE:20190820
+DTSTAMP:20190415T053712Z
+UID:q3041lo33e9adlg8ad1p04tkks@google.com
+CREATED:20190125T213129Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213129Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Convocation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20190415T053712Z
+UID:qaoo8nqk6dk05sm0ahiir06s0o@google.com
+CREATED:20190125T213112Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213112Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:First-Year Student Move-In Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190518
+DTEND;VALUE=DATE:20190519
+DTSTAMP:20190415T053712Z
+UID:4snvksh9ro7cmhg7oprv05e2ds@google.com
+CREATED:20190125T213006Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T213006Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Student Orientation Advising and Registration (SOAR)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20190415T053712Z
+UID:hddm29e9tc67oup698tjb2fsds@google.com
+CREATED:20190125T212855Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212855Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading Day (no classes\, no exams may be scheduled on this day)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20190415T053712Z
+UID:o5093an9me7v4rv3ir1kuahuag@google.com
+CREATED:20190125T212844Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212844Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T200000Z
+DTEND:20190423T213000Z
+DTSTAMP:20190415T053712Z
+UID:2f3n5m90av9g5vg2lcl5oeoh44@google.com
+CREATED:20190125T212833Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212833Z
+LOCATION:MG 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20190415T053712Z
+UID:jf0hnb33h2vap6tbi75359tm6c@google.com
+CREATED:20190125T212727Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212727Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Student Orientation Advising and Registration (SOAR) (Faculty Work 
+ Day)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20190415T053712Z
+UID:hbtocejqjm6c7h1rgvlt7eec2s@google.com
+CREATED:20190125T212623Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212623Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from a Spring Semester Course with a Grade of 
+ W (no withdrawal from a course is permitted after this deadline)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20190415T053712Z
+UID:1fvbl5kusjf408k9ohvkie5hi0@google.com
+CREATED:20190125T212606Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212606Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advising Day (no classes) - Student meet with Advisors and attend t
+ he Job and Grad Fair\, 10:00-1:30 p.m.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190302
+DTEND;VALUE=DATE:20190311
+DTSTAMP:20190415T053712Z
+UID:c3v2dabosvt53fcgmbvv3fhlco@google.com
+CREATED:20190125T212526Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212526Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Break (no classes)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20190415T053712Z
+UID:a98i547prlfp903emkd29t0mhc@google.com
+CREATED:20190125T212455Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212456Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-Term Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20190415T053712Z
+UID:6n2cff0vsag44sliqr8snfm8og@google.com
+CREATED:20190125T212406Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212406Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Grade of Incomplete from Preceding Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DTSTAMP:20190415T053712Z
+UID:r436627eed8qt0tokahh9pdvuo@google.com
+CREATED:20190125T212340Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T212340Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Graduation Applications for December 2019 Due in the Office of the 
+ Registrar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T210000Z
+DTEND:20190129T223000Z
+DTSTAMP:20190415T053712Z
+UID:4cuiflu6u7b6kb0disv9mg0cdp@google.com
+ATTENDEE;CUTYPE=RESOURCE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Academic
+  Calendar and Events;X-NUM-GUESTS=0:mailto:brevard.edu_39383233353430382d37
+ 3934@resource.calendar.google.com
+CREATED:20190107T192101Z
+DESCRIPTION:
+LAST-MODIFIED:20190125T205445Z
+LOCATION:MG 125\, Academic Calendar and Events
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190117T141500Z
+DTEND:20190117T144500Z
+DTSTAMP:20190415T053712Z
+UID:390f0moc7f45sdepgi9q30n55u@google.com
+CREATED:20190117T160524Z
+DESCRIPTION:
+LAST-MODIFIED:20190117T160751Z
+LOCATION:Academic Calendar
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Test
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170422
+DTEND;VALUE=DATE:20170423
+DTSTAMP:20190415T053712Z
+UID:d2un4ev9btdcd97j3qdhjmugps@google.com
+CREATED:20170112T211103Z
+DESCRIPTION:
+LAST-MODIFIED:20170112T211314Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:SOAR I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170722
+DTEND;VALUE=DATE:20170723
+DTSTAMP:20190415T053712Z
+UID:93f8h8gp96g5gv2qbguttlpub8@google.com
+CREATED:20170112T211207Z
+DESCRIPTION:
+LAST-MODIFIED:20170112T211207Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SOAR III
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170610
+DTEND;VALUE=DATE:20170611
+DTSTAMP:20190415T053712Z
+UID:r6pdhsuhh4q0i3fnmpjliibq18@google.com
+CREATED:20170112T211135Z
+DESCRIPTION:
+LAST-MODIFIED:20170112T211135Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SOAR II
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170124
+DTEND;VALUE=DATE:20170125
+DTSTAMP:20190415T053712Z
+UID:fkt0f88tac8gos1ehih4n4kufg@google.com
 CLASS:PUBLIC
-DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
- nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
- red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
-  Event Manager: Registrar\n\n
+CREATED:20160523T190159Z
+DESCRIPTION:
+LAST-MODIFIED:20170109T212559Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Last Day to Drop a Spring or Ext. Spring Course Without Record
+TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
- ppauge
-DTSTAMP:20190412T140634Z
-CREATED:20190110T210159Z
-LAST-MODIFIED:20190110T210307Z
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170118
+DTEND;VALUE=DATE:20170119
+DTSTAMP:20190415T053712Z
+UID:fvsfdki3dequdniu9231g6q9mg@google.com
+CLASS:PUBLIC
+CREATED:20160523T190118Z
+DESCRIPTION:
+LAST-MODIFIED:20170109T212547Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses for Spring & Ext. Spring Semesters
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170110
+DTEND;VALUE=DATE:20170111
+DTSTAMP:20190415T053712Z
+UID:lt1a0vba31bt87mqvmm46d68f4@google.com
+CLASS:PUBLIC
+CREATED:20160523T190000Z
+DESCRIPTION:
+LAST-MODIFIED:20170109T140049Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Faculty Development and Governance Day 8:00 AM
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170111
+DTEND;VALUE=DATE:20170112
+DTSTAMP:20190415T053712Z
+UID:315q234ipnmcls4bhtvu8a0rc8@google.com
+CLASS:PUBLIC
+CREATED:20160523T190020Z
+DESCRIPTION:
+LAST-MODIFIED:20170109T140039Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170110T130000Z
+DTEND:20170110T143000Z
+DTSTAMP:20190415T053712Z
+UID:818rua9acadedcv5661foa8o6c@google.com
+CREATED:20170104T133439Z
+DESCRIPTION:
+LAST-MODIFIED:20170109T140011Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Cont. Breakfast/MG Lobby
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T100000Z
+DTEND:20170505T033000Z
+DTSTAMP:20190415T053712Z
+ORGANIZER;CN=Event Setup:mailto:brevard.edu_353432333733382d373839@resource
+ .calendar.google.com
+UID:2ekvkppmnq3rri1si9u2823v58@google.com
+ATTENDEE;CUTYPE=RESOURCE;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Academic
+  Calendar and Events;X-NUM-GUESTS=0:mailto:brevard.edu_39383233353430382d37
+ 3934@resource.calendar.google.com
+CREATED:20160616T154829Z
+DESCRIPTION:Reserved per Commencement Weekend Schedule
+LAST-MODIFIED:20170103T180305Z
+LOCATION:Event Setup\, Event Tracker\, PPC Amphitheatre\, PPC Black Box/Mor
+ rison Playhouse: This room is offline to community use & is a designated Th
+ eater Department Classroom/Production room.\, PPC Francis Pavillion-Sound b
+ leed issues with Scott Concert Hall\, PPC Rehearsal Hall\, PPC Scott Common
+ s\, PPC Scott Concert Hall-Sound bleed issues with Francis Pavilion\, Secur
+ ity
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BC Commencement Weekend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170816
+DTEND;VALUE=DATE:20170819
+DTSTAMP:20190415T053712Z
+UID:2bedj9p80so7oecloor0d5av9s@google.com
+CREATED:20161222T131339Z
+DESCRIPTION:
+LAST-MODIFIED:20161222T131339Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development Days
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170425T200000Z
+DTEND:20170425T210000Z
+DTSTAMP:20190415T053712Z
+UID:rc3967fmms04g49earht5l3so8@google.com
+CREATED:20161222T131159Z
+DESCRIPTION:
+LAST-MODIFIED:20161222T131159Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170321T200000Z
+DTEND:20170321T210000Z
+DTSTAMP:20190415T053712Z
+UID:pvhjbq2thandl7bbsnkl0kgq74@google.com
+CREATED:20161222T131126Z
+DESCRIPTION:
+LAST-MODIFIED:20161222T131126Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170207T210000Z
+DTEND:20170207T220000Z
+DTSTAMP:20190415T053712Z
+UID:lckhd59kr127udend30goi40no@google.com
+CREATED:20161222T131021Z
+DESCRIPTION:
+LAST-MODIFIED:20161222T131021Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161219
+DTEND;VALUE=DATE:20161220
+DTSTAMP:20190415T053712Z
+UID:q75uk9ei4870s4hfqr72um4lc4@google.com
+CREATED:20161118T131828Z
+DESCRIPTION:
+LAST-MODIFIED:20161118T131828Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161031
+DTEND;VALUE=DATE:20161105
+DTSTAMP:20190415T053712Z
+UID:c6oev8s85sh5hib0q0ud0h9rl8@google.com
+CREATED:20161031T152016Z
+DESCRIPTION:
+LAST-MODIFIED:20161031T152016Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-Reg for Spring and Spring Extended
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161101T200000Z
+DTEND:20161101T210000Z
+DTSTAMP:20190415T053712Z
+UID:ql7vlk84425a5rklfs43doteic@google.com
+CLASS:PUBLIC
+CREATED:20160818T182345Z
+DESCRIPTION:
+LAST-MODIFIED:20161010T174953Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Faculty Mtg.
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170304
+DTEND;VALUE=DATE:20170313
+DTSTAMP:20190415T053712Z
+UID:vf613g5khth26na85s2uc4jtgg@google.com
+CLASS:PUBLIC
+CREATED:20160523T190731Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122655Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Break
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170301
+DTEND;VALUE=DATE:20170302
+DTSTAMP:20190415T053712Z
+UID:j2qud862840sgksjs33u74dcds@google.com
+CLASS:PUBLIC
+CREATED:20160523T190703Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122653Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-Term Grades Due
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160916
+DTEND;VALUE=DATE:20160917
+DTSTAMP:20190415T053712Z
+UID:o00jecnc3ojqlrrbqpgrkac36k@google.com
+CLASS:PUBLIC
+CREATED:20160916T144149Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122652Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Senior Pinning
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161012
+DTEND;VALUE=DATE:20161013
+DTSTAMP:20190415T053712Z
+UID:tef8d3scf4r7709ale6bab0bbk@google.com
+CLASS:PUBLIC
+CREATED:20160523T182533Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122650Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-Term Grades Due
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160926
+DTEND;VALUE=DATE:20160927
+DTSTAMP:20190415T053712Z
+UID:mgppi2dgbst497vsj5ktctmpig@google.com
+CLASS:PUBLIC
+CREATED:20160523T182440Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122649Z
+LOCATION:the Office of the Registrar
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Graduation Applications for May 2017 and Summer 2017 Due in the Off
+ ice of the Registrar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170208
+DTEND;VALUE=DATE:20170209
+DTSTAMP:20190415T053712Z
+UID:28icad10m7h6ncggl5d457e9p8@google.com
+CLASS:PUBLIC
+CREATED:20160523T190618Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122648Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from an Ext. Spring Course & Receive Course Fe
+ e Refund
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170208
+DTEND;VALUE=DATE:20170209
+DTSTAMP:20190415T053712Z
+UID:k7fqv1ka2nnsti2sc3ilacllng@google.com
+ATTENDEE;CUTYPE=RESOURCE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Academic
+  Calendar;X-NUM-GUESTS=0:mailto:brevard.edu_39383233353430382d373934@resour
+ ce.calendar.google.com
+CLASS:PUBLIC
+CREATED:20160523T190502Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122647Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Grade of "I" from Preceding Semester
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161031
+DTEND;VALUE=DATE:20161101
+DTSTAMP:20190415T053712Z
+UID:lkfms9lqagnvg1di32k38ofeps@google.com
+CLASS:PUBLIC
+CREATED:20160523T183031Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122646Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-Registration for Spring and Ext. Spring 2017 Semesters
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170206
+DTEND;VALUE=DATE:20170207
+DTSTAMP:20190415T053712Z
+UID:fjbfj55pcujgrjtvt2s4b343fk@google.com
+CLASS:PUBLIC
+CREATED:20160523T190423Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122646Z
+LOCATION:Registrar's Office
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grad. Apps for December 2017 Due in Registrar's Office
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160920T200000Z
+DTEND:20160920T210000Z
+DTSTAMP:20190415T053712Z
+UID:fbe8rohpdadk01d1l08st8scb8@google.com
+CLASS:PUBLIC
+CREATED:20160818T182208Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122645Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Mtg.
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161025
+DTEND;VALUE=DATE:20161026
+DTSTAMP:20190415T053712Z
+UID:8bckng0rh2vm16le39cfu73f54@google.com
+CLASS:PUBLIC
+CREATED:20160523T182632Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122645Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Plan Your Future Day
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160919
+DTEND;VALUE=DATE:20160920
+DTSTAMP:20190415T053712Z
+UID:rfgj9q2iqkc45qfcjgis2bfuj8@google.com
+CLASS:PUBLIC
+CREATED:20160523T182359Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122644Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Grade of Incomplete from Preceding Semester
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161123
+DTEND;VALUE=DATE:20161128
+DTSTAMP:20190415T053712Z
+UID:il9drasc5f3bajd89f94e2jjp0@google.com
+CLASS:PUBLIC
+CREATED:20160523T183144Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122643Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Break
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160905
+DTEND;VALUE=DATE:20160906
+DTSTAMP:20190415T053712Z
+UID:v88dsqd82j34pebbf7snpf7k3g@google.com
+CLASS:PUBLIC
+CREATED:20160523T182258Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122643Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Drop a Course Without a Record
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161007
+DTEND;VALUE=DATE:20161010
+DTSTAMP:20190415T053712Z
+UID:pm9cco1pgl8upgbbj3ompebrgs@google.com
+CLASS:PUBLIC
+CREATED:20160523T182508Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122641Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Homecoming
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161212
+DTEND;VALUE=DATE:20161217
+DTSTAMP:20190415T053712Z
+UID:7snl98cc9l65kojc81lhaa41n8@google.com
+CLASS:PUBLIC
+CREATED:20160523T183229Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122640Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Reflection and Assessment Week
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161104
+DTEND;VALUE=DATE:20161105
+DTSTAMP:20190415T053712Z
+UID:oepvhsc1n2c5tuh84ja9umkrpc@google.com
+CLASS:PUBLIC
+CREATED:20160523T183112Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122638Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from a Course with a Grade of W
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161209
+DTEND;VALUE=DATE:20161210
+DTSTAMP:20190415T053712Z
+UID:6r47jaq1r11ccm073q7a9p4slk@google.com
+CLASS:PUBLIC
+CREATED:20160523T183212Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122637Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170116
+DTEND;VALUE=DATE:20170117
+DTSTAMP:20190415T053712Z
+UID:9qojhdjqlqhge8nsouv6ehl8bk@google.com
+CLASS:PUBLIC
+CREATED:20160523T190039Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122636Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MLK Day (no classes)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161015
+DTEND;VALUE=DATE:20161024
+DTSTAMP:20190415T053712Z
+UID:8a2gqt78k164ud87icl5uqnvrk@google.com
+CLASS:PUBLIC
+CREATED:20160523T182608Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122636Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fall Break
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161206T210000Z
+DTEND:20161206T220000Z
+DTSTAMP:20190415T053712Z
+UID:jut10s3kr6431d793uh6vdvpek@google.com
+CLASS:PUBLIC
+CREATED:20160818T182442Z
+DESCRIPTION:
+LAST-MODIFIED:20160930T122635Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Mtg.
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170509
+DTEND;VALUE=DATE:20170512
+DTSTAMP:20190415T053712Z
+UID:8qtrte07g219689c057fcpfg6k@google.com
+CREATED:20160523T191153Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T191153Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development Days
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170505
+DTEND;VALUE=DATE:20170507
+DTSTAMP:20190415T053712Z
+UID:848tca7ecd6ae5ic39un45u6fg@google.com
+CREATED:20160523T191128Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T191128Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Commencement Weekend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170430
+DTEND;VALUE=DATE:20170505
+DTSTAMP:20190415T053712Z
+UID:shiotaj2lvjbbja7p3i9vc6re0@google.com
+CREATED:20160523T191050Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T191104Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Reflection &: Assessment Week
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170428
+DTEND;VALUE=DATE:20170429
+DTSTAMP:20190415T053712Z
+UID:dc00qon32eoo5osojiii8l3fp8@google.com
+CREATED:20160523T191031Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T191031Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170417
+DTSTAMP:20190415T053712Z
+UID:lqfu7p571tslpo6q29r3vuoedc@google.com
+CREATED:20160523T190959Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T190959Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Easter Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170405
+DTEND;VALUE=DATE:20170406
+DTSTAMP:20190415T053712Z
+UID:h16vfah69s5tqdkptmhja1vui4@google.com
+CREATED:20160523T190934Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T190934Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Honors and Awards Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170327
+DTEND;VALUE=DATE:20170401
+DTSTAMP:20190415T053712Z
+UID:b877rnlsidllk6e6hdf6pca74s@google.com
+CREATED:20160523T190915Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T190915Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-Registration for Fall 2017 Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170324
+DTEND;VALUE=DATE:20170325
+DTSTAMP:20190415T053712Z
+UID:h1c6mmb0kr7dbdejlmvebahj9s@google.com
+CREATED:20160523T190822Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T190822Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from a Spring Semester Course with a Grade of 
+ W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170321
+DTEND;VALUE=DATE:20170322
+DTSTAMP:20190415T053712Z
+UID:ounmgaepbu60n6jv5oppqkiq8k@google.com
+CREATED:20160523T190752Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T190753Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Plan Your Future Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160829
+DTEND;VALUE=DATE:20160830
+DTSTAMP:20190415T053712Z
+UID:64pd70aalere9asmlg884034v8@google.com
+CREATED:20160523T182214Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T182214Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160823
+DTEND;VALUE=DATE:20160824
+DTSTAMP:20190415T053712Z
+UID:dvl6q4dg37u62nj5dusr974qa0@google.com
+CREATED:20160523T182153Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T182153Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160817
+DTEND;VALUE=DATE:20160820
+DTSTAMP:20190415T053712Z
+UID:fsrts57cfs9tc0qlr9lj7nrgp4@google.com
+CREATED:20160523T182023Z
+DESCRIPTION:
+LAST-MODIFIED:20160523T182023Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development & Governance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160316
+DTEND;VALUE=DATE:20160317
+DTSTAMP:20190415T053712Z
+UID:cnhdq4c5tq4q56qnbpi7lcvtok@google.com
+CREATED:20160303T161123Z
+DESCRIPTION:
+LAST-MODIFIED:20160303T161123Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Plan Your Future Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160315T200000Z
+DTEND:20160315T213000Z
+DTSTAMP:20190415T053712Z
+UID:g9s8feptjkv6246k92up4f86c4@google.com
+CREATED:20160212T144150Z
+DESCRIPTION:
+LAST-MODIFIED:20160303T153434Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160309T200000Z
+DTEND:20160309T210000Z
+DTSTAMP:20190415T053712Z
+UID:r6fi1hllbq3llimhi4vn4ong4k@google.com
+CREATED:20160119T162327Z
+DESCRIPTION:
+LAST-MODIFIED:20160222T150544Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Wonderful Wednesdays - Faculty
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160217T200000Z
+DTEND:20160217T210000Z
+DTSTAMP:20190415T053712Z
+UID:ljit5h5vsojono6s6r7s1s3j0g@google.com
+CREATED:20160119T162142Z
+DESCRIPTION:
+LAST-MODIFIED:20160217T151256Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wonderful Wednesdays - Barbara Boerner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160421
+DTSTAMP:20190415T053712Z
+UID:5f5mrcnltsalt6a2ogo2bv8nhs@google.com
+CREATED:20160119T162506Z
+DESCRIPTION:
+LAST-MODIFIED:20160119T162506Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Senior Project Presentations
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160413
+DTEND;VALUE=DATE:20160414
+DTSTAMP:20190415T053712Z
+UID:cadg6u9l4s1l5uj508j3ngse9k@google.com
+CREATED:20160119T162456Z
+DESCRIPTION:
+LAST-MODIFIED:20160119T162456Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Senior Project Presentations
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160323T133000Z
+DTEND:20160323T143000Z
+DTSTAMP:20190415T053712Z
+UID:glagh2u893ickj4spnroslr15k@google.com
+CREATED:20160119T162407Z
+DESCRIPTION:
+LAST-MODIFIED:20160119T162407Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wonderful Wednesdays - Toni McCourt\, Alum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160218T233000Z
+DTEND:20160219T003000Z
+DTSTAMP:20190415T053712Z
+UID:qbu2eq5439q2eun8gkqcru9tok@google.com
+CREATED:20160119T162226Z
+DESCRIPTION:
+LAST-MODIFIED:20160119T162226Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wonderful Wednesdays - Guin Hinmann\, Alum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160203T143000Z
+DTEND:20160203T153000Z
+DTSTAMP:20190415T053712Z
+UID:qu96n9i79m0d7pfsrlu7nl8r74@google.com
+CREATED:20160119T161858Z
+DESCRIPTION:
+LAST-MODIFIED:20160119T161958Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wonderful Wednesdays - Aaron Baker\, Alum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160210T173000Z
+DTEND:20160210T183000Z
+DTSTAMP:20190415T053712Z
+UID:t7avb5c21ikdanf4n6jo8bfc7g@google.com
+CREATED:20160119T161939Z
+DESCRIPTION:
+LAST-MODIFIED:20160119T161939Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wonderful Wednesdays - Caroline Mann
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160120T173000Z
+DTEND:20160120T183000Z
+DTSTAMP:20190415T053712Z
+UID:q1endpaiupndhi8kkdu32bo854@google.com
+CREATED:20160119T161722Z
+DESCRIPTION:
+LAST-MODIFIED:20160119T161722Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Megan Hutton - Wonderful Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160112T210000Z
+DTEND:20160112T220000Z
+DTSTAMP:20190415T053712Z
+UID:s0f1blr47q9okl6l30kr6hc718@google.com
+CREATED:20160105T150753Z
+DESCRIPTION:
+LAST-MODIFIED:20160105T150753Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160419T200000Z
+DTEND:20160419T210000Z
+DTSTAMP:20190415T053712Z
+UID:qniea4st56tm6rbk3mff09chps@google.com
+CREATED:20160105T150705Z
+DESCRIPTION:
+LAST-MODIFIED:20160105T150705Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160105
+DTEND;VALUE=DATE:20160106
+DTSTAMP:20190415T053712Z
+UID:6csdemr8ovc9uuciju976puaac@google.com
+CREATED:20151021T145142Z
+DESCRIPTION:
+LAST-MODIFIED:20151021T145142Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development and Governance Days
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160104
+DTEND;VALUE=DATE:20160105
+DTSTAMP:20190415T053712Z
+UID:osudmif812pi9792lmhd8j5o0c@google.com
+CREATED:20151021T145120Z
+DESCRIPTION:
+LAST-MODIFIED:20151021T145120Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development and Governance Days
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160516
+DTEND;VALUE=DATE:20160517
+DTSTAMP:20190415T053712Z
+UID:o9uf29uenas11pvcsl3d848q64@google.com
+CREATED:20150807T165550Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165550Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw with Grade of W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160510
+DTEND;VALUE=DATE:20160511
+DTSTAMP:20190415T053712Z
+UID:jebtjijjgopl8vdh41kc8v3dp4@google.com
+CREATED:20150807T165513Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165513Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Drop Course without Record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160509
+DTEND;VALUE=DATE:20160510
+DTSTAMP:20190415T053712Z
+UID:489582klllu9e4h97ivid6ou9o@google.com
+CREATED:20150807T165439Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165439Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add a Course
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160509
+DTEND;VALUE=DATE:20160510
+DTSTAMP:20190415T053712Z
+UID:68r88m361plbqo6hk5dna637p4@google.com
+CREATED:20150807T165406Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165406Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160429
+DTEND;VALUE=DATE:20160501
+DTSTAMP:20190415T053712Z
+UID:9fvedgpk5jqtvbk1evm66obi70@google.com
+CREATED:20150807T165321Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165321Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Commencement Weekend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160424
+DTEND;VALUE=DATE:20160429
+DTSTAMP:20190415T053712Z
+UID:ba2ghks0qs68sfifnlgba3pnag@google.com
+CREATED:20150807T165240Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165240Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Reflection & Assessment Week
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+DTSTAMP:20190415T053712Z
+UID:onnvvmntq9i574urfb4sr838l0@google.com
+CREATED:20150807T165139Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165139Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160406
+DTEND;VALUE=DATE:20160407
+DTSTAMP:20190415T053712Z
+UID:ae2jl16bhnb57bi762sj4drqfc@google.com
+CREATED:20150807T165110Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165110Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Honors and Awards Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160328
+DTSTAMP:20190415T053712Z
+UID:pk4h4eef1bder37moutlkjfkfc@google.com
+CREATED:20150807T165038Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T165038Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Easter Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160321
+DTEND;VALUE=DATE:20160326
+DTSTAMP:20190415T053712Z
+UID:amdq4se9c2jqplf494e007n1p8@google.com
+CREATED:20150807T164929Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164953Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-registration for Fall 2016
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160318
+DTEND;VALUE=DATE:20160319
+DTSTAMP:20190415T053712Z
+UID:vbgjjioon9l93abf8on8uee32s@google.com
+CREATED:20150807T164853Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164853Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw with Grade of W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160227
+DTEND;VALUE=DATE:20160307
+DTSTAMP:20190415T053712Z
+UID:9e61obvsn1i9mr1f2ler7irico@google.com
+CREATED:20150807T164731Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164731Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160224
+DTEND;VALUE=DATE:20160225
+DTSTAMP:20190415T053712Z
+UID:4tbr8ssria1idbjjf8gididlkk@google.com
+CREATED:20150807T164646Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164646Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-term Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160209
+DTSTAMP:20190415T053712Z
+UID:fiagnmdq2t3o1k0gjdb36fbpbs@google.com
+CREATED:20150807T164610Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164610Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Graduation Applications Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160203
+DTEND;VALUE=DATE:20160204
+DTSTAMP:20190415T053712Z
+UID:d2s3mchu7dj6nr3cl2kgvqk1rs@google.com
+CREATED:20150807T164529Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164529Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Incomplete from Preceding Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160119
+DTEND;VALUE=DATE:20160120
+DTSTAMP:20190415T053712Z
+UID:9s5sag1i5ic76bt9skarakhgk8@google.com
+CREATED:20150807T164419Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164419Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Drop Without Record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+DTSTAMP:20190415T053712Z
+UID:vtbd7i5iklentj72uqb52pb020@google.com
+CREATED:20150807T164154Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T164155Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MLK Day (No Classes)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160106
+DTEND;VALUE=DATE:20160107
+DTSTAMP:20190415T053712Z
+UID:mr3n1r433jjgjtscem3rhc5ko4@google.com
+CREATED:20150807T163612Z
+DESCRIPTION:
+LAST-MODIFIED:20150807T163612Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151207
+DTEND;VALUE=DATE:20151212
+DTSTAMP:20190415T053712Z
+UID:dbsur1gn6ar6efm492bommhiuo@google.com
+CREATED:20150526T194633Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T194633Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Reflection and Assessment Week
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151205
+DTSTAMP:20190415T053712Z
+UID:rd1kukl8voql55qucovco92skg@google.com
+CREATED:20150526T194552Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T194552Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151130
+DTSTAMP:20190415T053712Z
+UID:skp75qs8u7kthalj8a894qimk8@google.com
+CREATED:20150526T194522Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T194522Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151031
+DTSTAMP:20190415T053712Z
+UID:3abrcuch44a9ef2vn1gic0n1kg@google.com
+CREATED:20150526T194435Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T194435Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw From a Course with Grade of W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151021
+DTEND;VALUE=DATE:20151022
+DTSTAMP:20190415T053712Z
+UID:kl9val5d46rqdsa7afonh2vqeo@google.com
+CREATED:20150526T194128Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T194128Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Plan Your Future Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151019
+DTSTAMP:20190415T053712Z
+UID:r03lnm9rpahbgs57leqkmhib90@google.com
+CREATED:20150526T194049Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T194049Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fall Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+DTSTAMP:20190415T053712Z
+UID:j4g3v3km4j9daf50dpo8ofse9s@google.com
+CREATED:20150526T193955Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T193955Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-Term Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151005
+DTSTAMP:20190415T053712Z
+UID:bskcmrl8h29mqj2kfptbgqr0ns@google.com
+CREATED:20150526T193914Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T193914Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Homecoming
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150929
+DTEND;VALUE=DATE:20150930
+DTSTAMP:20190415T053712Z
+UID:00du83uqar32onnr7ljfck7vi0@google.com
+CREATED:20150526T164709Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T164709Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Graduation App. for May 16 and Summer 16 Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150911
+DTEND;VALUE=DATE:20150914
+DTSTAMP:20190415T053712Z
+UID:binfv48t646sq7flqijhbbbuv8@google.com
+CREATED:20150526T164544Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T164600Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family Weekend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150915
+DTEND;VALUE=DATE:20150916
+DTSTAMP:20190415T053712Z
+UID:7ihq8rckhsn1nr970q7msgqbms@google.com
+CREATED:20150526T164501Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T164501Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Grade of I from Preceding Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150901
+DTEND;VALUE=DATE:20150902
+DTSTAMP:20190415T053712Z
+UID:ilic4he81n21bq2h48maru2fcc@google.com
+CREATED:20150526T164414Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T164414Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from Course Without Record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150825
+DTEND;VALUE=DATE:20150826
+DTSTAMP:20190415T053712Z
+UID:3fse9ouqlc3abs3oj1rfcuna8s@google.com
+CREATED:20150526T164250Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T164250Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150819
+DTEND;VALUE=DATE:20150820
+DTSTAMP:20190415T053712Z
+UID:e3ifmh4im6cilq6qd3eivhcems@google.com
+CREATED:20150526T164131Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T164137Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:First Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150818
+DTEND;VALUE=DATE:20150819
+DTSTAMP:20190415T053712Z
+UID:6ujkvpefr9ktv7j6nrv4c8vg00@google.com
+CREATED:20150526T164108Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T164108Z
+LOCATION:PC 5:00 PM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Convocation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150812
+DTEND;VALUE=DATE:20150815
+DTSTAMP:20190415T053712Z
+UID:o3m6n54sqf85ebhr3sq7c57bts@google.com
+CREATED:20150526T161134Z
+DESCRIPTION:
+LAST-MODIFIED:20150526T161134Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development & Governance Days
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150507T183000Z
+DTEND:20150507T193000Z
+DTSTAMP:20190415T053712Z
+UID:vmq3nltgigv7d9d2vv24j6svsk@google.com
+CREATED:20150506T204011Z
+DESCRIPTION:
+LAST-MODIFIED:20150506T204011Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150505T153000Z
+DTEND:20150505T170000Z
+DTSTAMP:20190415T053712Z
+UID:q9a1bj34md4534bk5t25l03t9g@google.com
+CREATED:20150320T143422Z
+DESCRIPTION:
+LAST-MODIFIED:20150429T150201Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Faculty/Staff Luncheon 11:30 AM
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150502T133000Z
+DTEND:20150502T160000Z
+DTSTAMP:20190415T053712Z
+UID:iv6t0sfl4e8ouvlq514bem6t5g@google.com
+CREATED:20140728T144021Z
+DESCRIPTION:
+LAST-MODIFIED:20150427T161629Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Commencement
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150501T194500Z
+DTEND:20150501T211500Z
+DTSTAMP:20190415T053712Z
+UID:p2q13j8alk5dls4j5a8turbb9g@google.com
+ATTENDEE;CUTYPE=RESOURCE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Academic
+  Calendar;X-NUM-GUESTS=0:mailto:brevard.edu_39383233353430382d373934@resour
+ ce.calendar.google.com
+CREATED:20140728T143959Z
+DESCRIPTION:
+LAST-MODIFIED:20150427T161607Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Baccalaureate
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150424T190000Z
+DTEND:20150424T203000Z
+DTSTAMP:20190415T053712Z
+UID:sl71a6jsno6ujr6cqcuh2ghrvo@google.com
+CREATED:20150420T170510Z
+DESCRIPTION:
+LAST-MODIFIED:20150420T170510Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150711
+DTEND;VALUE=DATE:20150712
+DTSTAMP:20190415T053712Z
+UID:6e95ih92ir5obp1in1ojg9o4l4@google.com
+CREATED:20150327T143318Z
+DESCRIPTION:
+LAST-MODIFIED:20150327T143318Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SOAR
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150613
+DTEND;VALUE=DATE:20150614
+DTSTAMP:20190415T053712Z
+UID:pupsmet8tttpo7rmu3ib1snfe4@google.com
+CREATED:20150327T143258Z
+DESCRIPTION:
+LAST-MODIFIED:20150327T143258Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SOAR
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150418
+DTEND;VALUE=DATE:20150419
+DTSTAMP:20190415T053712Z
+UID:kpugi3p9qjjd9dp4lc4i2mm0tk@google.com
+CREATED:20150327T143232Z
+DESCRIPTION:
+LAST-MODIFIED:20150327T143232Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SOAR
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150505
+DTEND;VALUE=DATE:20150508
+DTSTAMP:20190415T053712Z
+UID:eded2ncdg0bnph33tde23d5g0o@google.com
+CREATED:20150320T143131Z
+DESCRIPTION:
+LAST-MODIFIED:20150320T143131Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development & Governance Days
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150105
+DTEND;VALUE=DATE:20150107
+DTSTAMP:20190415T053712Z
+ORGANIZER;CN=Scott Sheffield:mailto:brevard.edu_efes2p0sn5oo89rl6mrt3pt48k@
+ group.calendar.google.com
+UID:04g8q3u6ege53d8b5jn0mg2un4@google.com
+ATTENDEE;CUTYPE=RESOURCE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Academic
+  Calendar and Events;X-NUM-GUESTS=0:mailto:brevard.edu_39383233353430382d37
+ 3934@resource.calendar.google.com
+CREATED:20140813T172740Z
+DESCRIPTION:
+LAST-MODIFIED:20141204T144153Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Governance Days
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150320
+DTEND;VALUE=DATE:20150321
+DTSTAMP:20190415T053712Z
+UID:q8humfa9g8fo4b87e8jt541ig0@google.com
+CREATED:20140826T130308Z
+DESCRIPTION:
+LAST-MODIFIED:20140826T130308Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150123
+DTEND;VALUE=DATE:20150124
+DTSTAMP:20190415T053712Z
+UID:rvjnhjqtrug17nfssah09287o0@google.com
+CREATED:20140826T130220Z
+DESCRIPTION:
+LAST-MODIFIED:20140826T130220Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141205
+DTEND;VALUE=DATE:20141206
+DTSTAMP:20190415T053712Z
+UID:sbvq4a9t8hdj999n5boejsfcck@google.com
+CREATED:20140826T130109Z
+DESCRIPTION:
+LAST-MODIFIED:20140826T130109Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141024
+DTEND;VALUE=DATE:20141025
+DTSTAMP:20190415T053712Z
+UID:vjprl2egnvt610qmf1923jmdto@google.com
+CREATED:20140826T130014Z
+DESCRIPTION:
+LAST-MODIFIED:20140826T130014Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140912
+DTEND;VALUE=DATE:20140913
+DTSTAMP:20190415T053712Z
+UID:rg8ui1ndgv4mfila8utsa5ls80@google.com
+CREATED:20140826T125944Z
+DESCRIPTION:
+LAST-MODIFIED:20140826T125944Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150320
+DTEND;VALUE=DATE:20150321
+DTSTAMP:20190415T053712Z
+UID:1rgvmvfmropddb0tlq0hih83vk@google.com
+CREATED:20140814T150431Z
+DESCRIPTION:
+LAST-MODIFIED:20140814T150431Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day to withdraw From a class with a grade of W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140813
+DTEND;VALUE=DATE:20140816
+DTSTAMP:20190415T053712Z
+UID:5iq1fm7e8jo3sl3ck5i9ml1vq4@google.com
+CREATED:20140728T144234Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T144234Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150427
+DTEND;VALUE=DATE:20150501
+DTSTAMP:20190415T053712Z
+UID:2ad8m61l7g68q2tkhf759s8ldg@google.com
+CREATED:20140728T143941Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143941Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Exams
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150425
+DTEND;VALUE=DATE:20150426
+DTSTAMP:20190415T053712Z
+UID:5n9qij98pahf2ljto0rp2f9icc@google.com
+CREATED:20140728T143912Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143912Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150424
+DTEND;VALUE=DATE:20150425
+DTSTAMP:20190415T053712Z
+UID:0ojrn9ie1ctg0fr4bju0glm96s@google.com
+CREATED:20140728T143857Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143858Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day of classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150408
+DTEND;VALUE=DATE:20150409
+DTSTAMP:20190415T053712Z
+UID:rd9nighd6hoogcmveadacfk61o@google.com
+CREATED:20140728T143838Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143838Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Honors and Awards Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150403
+DTEND;VALUE=DATE:20150406
+DTSTAMP:20190415T053712Z
+UID:tjb87uqf6tuc8eau25pc9p7l9o@google.com
+CREATED:20140728T143815Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143815Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Easter Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150323
+DTEND;VALUE=DATE:20150328
+DTSTAMP:20190415T053712Z
+UID:fjc6fpqjl5m9hqotfddhj2jtl4@google.com
+CREATED:20140728T143739Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143740Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-reg. for Fall 2015 Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150228
+DTEND;VALUE=DATE:20150309
+DTSTAMP:20190415T053712Z
+UID:ictbohrj5jsakono7l7u2j9cqk@google.com
+CREATED:20140728T143657Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143657Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150225
+DTEND;VALUE=DATE:20150226
+DTSTAMP:20190415T053712Z
+UID:sdoudi5553m9c0kloofo794nj0@google.com
+CREATED:20140728T143631Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143631Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-term grades due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150209
+DTEND;VALUE=DATE:20150210
+DTSTAMP:20190415T053712Z
+UID:2q7clao5apjg20ut9lpckesb1k@google.com
+CREATED:20140728T143549Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143549Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Graduation Apps for December 2015 due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150206
+DTEND;VALUE=DATE:20150207
+DTSTAMP:20190415T053712Z
+UID:7t15l6uvsjs4qgsckenj67ce9c@google.com
+CREATED:20140728T143503Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143503Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Deadline for Early Progress Reports
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150204
+DTEND;VALUE=DATE:20150205
+DTSTAMP:20190415T053712Z
+UID:v9s261qeaanvniv4cued0eej10@google.com
+CREATED:20140728T143432Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143432Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day to remove Incomplete from preceding semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150120
+DTEND;VALUE=DATE:20150121
+DTSTAMP:20190415T053712Z
+UID:d2jn66o7opb8bfd07evnm5v9qo@google.com
+CREATED:20140728T143354Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143355Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day to withdraw from a course without record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150113
+DTEND;VALUE=DATE:20150114
+DTSTAMP:20190415T053712Z
+UID:ts25g6h9i41jb5uscqrfuvt2c0@google.com
+CREATED:20140728T143325Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143325Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day to add courses
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150107
+DTEND;VALUE=DATE:20150108
+DTSTAMP:20190415T053712Z
+UID:ue7gplbu7cho1undv2d5td366s@google.com
+CREATED:20140728T143309Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143309Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141208
+DTEND;VALUE=DATE:20141213
+DTSTAMP:20190415T053712Z
+UID:v132tjrpir19654u02teas7aa8@google.com
+CREATED:20140728T143242Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143242Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Exams
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141206
+DTEND;VALUE=DATE:20141207
+DTSTAMP:20190415T053712Z
+UID:vrf6ha0dvadbh10pkc24gd9fik@google.com
+CREATED:20140728T143200Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143200Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141205
+DTEND;VALUE=DATE:20141206
+DTSTAMP:20190415T053712Z
+UID:ip3sr7p79hbbep3htc8giesneo@google.com
+CREATED:20140728T143132Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143132Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141126
+DTEND;VALUE=DATE:20141201
+DTSTAMP:20190415T053712Z
+UID:mj3v7p4uf6lv3dvlu4ufut2obg@google.com
+CREATED:20140728T143106Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143106Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141031
+DTEND;VALUE=DATE:20141101
+DTSTAMP:20190415T053712Z
+UID:lonkngc1ccvfr4n443ec4buids@google.com
+CREATED:20140728T143032Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T143032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day to withdraw with a grade of W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141027
+DTEND;VALUE=DATE:20141101
+DTSTAMP:20190415T053712Z
+UID:t0tlpbfo0lsmo5jtmr4v9e1hc8@google.com
+CREATED:20140728T142941Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142941Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-Reg. for Spring 2015 Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141011
+DTEND;VALUE=DATE:20141020
+DTSTAMP:20190415T053712Z
+UID:batkotfnqmhsk7ij1v53saa5po@google.com
+CREATED:20140728T142855Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142856Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fall Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141008
+DTEND;VALUE=DATE:20141009
+DTSTAMP:20190415T053712Z
+UID:falmcep23pa0gl39alsqo7qm7s@google.com
+CREATED:20140728T142832Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142832Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-term grades due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141003
+DTEND;VALUE=DATE:20141006
+DTSTAMP:20190415T053712Z
+UID:tl1d8s5le71rj9utffekaiejmg@google.com
+CREATED:20140728T142802Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142802Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Homecoming
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140929
+DTEND;VALUE=DATE:20140930
+DTSTAMP:20190415T053712Z
+UID:3iuf3hj2bjr2p8j8sbuf56htmk@google.com
+CREATED:20140728T142730Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142730Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grad Apps. for May 2015 & Summer 15 Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140919
+DTEND;VALUE=DATE:20140922
+DTSTAMP:20190415T053712Z
+UID:g7stukb006ugbp6qt8jpvugv04@google.com
+CREATED:20140728T142625Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142625Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family Weekend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140917
+DTEND;VALUE=DATE:20140918
+DTSTAMP:20190415T053712Z
+UID:ft4esh1pd9bkvticob6gq4nr5k@google.com
+CREATED:20140728T142527Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142527Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day to remove Incomplete from preceding semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140902
+DTEND;VALUE=DATE:20140903
+DTSTAMP:20190415T053712Z
+UID:i7hqsn1au7v1klunhm573uet80@google.com
+ATTENDEE;CUTYPE=RESOURCE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Academic
+  Calendar;X-NUM-GUESTS=0:mailto:brevard.edu_39383233353430382d373934@resour
+ ce.calendar.google.com
+CREATED:20140728T142422Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142436Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day to withdraw from a course without a record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140826
+DTEND;VALUE=DATE:20140827
+DTSTAMP:20190415T053712Z
+UID:t5b36bovinm1qea8flu01btg0k@google.com
+CREATED:20140728T142342Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142342Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140820
+DTEND;VALUE=DATE:20140821
+DTSTAMP:20190415T053712Z
+UID:5v4rcd6mlld8b6tj54pqol0sf0@google.com
+CREATED:20140728T141410Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142315Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140819
+DTEND;VALUE=DATE:20140820
+DTSTAMP:20190415T053712Z
+UID:vt5rnks1h39c2171tgs9qjijd8@google.com
+CREATED:20140728T141237Z
+DESCRIPTION:
+LAST-MODIFIED:20140728T142305Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Convocation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140321
+DTEND;VALUE=DATE:20140322
+DTSTAMP:20190415T053712Z
+UID:9jem1igeir0je6vqi6r3v1epmg@google.com
+CREATED:20131111T134003Z
+DESCRIPTION:
+LAST-MODIFIED:20131111T134003Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from a Course with W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140317
+DTEND;VALUE=DATE:20140322
+DTSTAMP:20190415T053712Z
+UID:5m9cikqt10avufgdp0d08bcmpc@google.com
+CREATED:20131111T133921Z
+DESCRIPTION:
+LAST-MODIFIED:20131111T133921Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-registration for Fall 2014 Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140106
+DTEND;VALUE=DATE:20140108
+DTSTAMP:20190415T053712Z
+UID:k015t7ht5kqmto2mkv125fn1ao@google.com
+CREATED:20131111T133547Z
+DESCRIPTION:
+LAST-MODIFIED:20131111T133547Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development & Governance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131101
+DTEND;VALUE=DATE:20131102
+DTSTAMP:20190415T053712Z
+UID:hcalpic1gntavtrjbrq97if8rs@google.com
+CREATED:20131029T141340Z
+DESCRIPTION:
+LAST-MODIFIED:20131029T141340Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from a Course with a Grade of W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131028
+DTEND;VALUE=DATE:20131102
+DTSTAMP:20190415T053712Z
+UID:1uo8gv3g6iaqof31q7tpc2ftp8@google.com
+CREATED:20131029T141228Z
+DESCRIPTION:
+LAST-MODIFIED:20131029T141228Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pre-registration for Spring 2014
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131028
+DTEND;VALUE=DATE:20131029
+DTSTAMP:20190415T053712Z
+UID:g0spj2pb8tkp6ao4e2145n3lrs@google.com
+CREATED:20130812T160221Z
+DESCRIPTION:
+LAST-MODIFIED:20131029T141138Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw From a Course With Grade of W
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140502
+DTEND;VALUE=DATE:20140504
+DTSTAMP:20190415T053712Z
+UID:sbbv1puc626jneh3n0h1e89blc@google.com
+CREATED:20130812T161401Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161401Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Commencement Weekend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140428
+DTEND;VALUE=DATE:20140502
+DTSTAMP:20190415T053712Z
+UID:gjotjf0l89iq5qmf5mn3k7ohkc@google.com
+CREATED:20130812T161342Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161342Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Exams
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140426
+DTEND;VALUE=DATE:20140427
+DTSTAMP:20190415T053712Z
+UID:mdm898n5pf5us328mnk59l3vh4@google.com
+CREATED:20130812T161320Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161320Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140425
+DTEND;VALUE=DATE:20140426
+DTSTAMP:20190415T053712Z
+UID:9e7kdttjt82oitijpvbn29inh0@google.com
+CREATED:20130812T161312Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161312Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140421
+DTSTAMP:20190415T053712Z
+UID:cj18bhu809shi16fqsnlf8kdus@google.com
+CREATED:20130812T161239Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161249Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Easter Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140409
+DTEND;VALUE=DATE:20140410
+DTSTAMP:20190415T053712Z
+UID:mptr6pq040nr09kv1ja6l06c0o@google.com
+CREATED:20130812T161224Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161224Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Honors & Awards Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140301
+DTEND;VALUE=DATE:20140310
+DTSTAMP:20190415T053712Z
+UID:f9qkgh7spdu878i3s3hfivhjg8@google.com
+CREATED:20130812T161158Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161158Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140226
+DTEND;VALUE=DATE:20140227
+DTSTAMP:20190415T053712Z
+UID:2fbvpd4cs9hsa22f59pfl2vtvk@google.com
+CREATED:20130812T161137Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161137Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-term Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140210
+DTEND;VALUE=DATE:20140211
+DTSTAMP:20190415T053712Z
+UID:39afm6t2gjrstgj89ro5f8ftds@google.com
+CREATED:20130812T161021Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T161021Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grad. Apps. Due for December 2013
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140207
+DTEND;VALUE=DATE:20140208
+DTSTAMP:20190415T053712Z
+UID:mnl2749887aubapivdubtvfev8@google.com
+CREATED:20130812T160852Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160852Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Early Progress Report Deadline
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140205
+DTEND;VALUE=DATE:20140206
+DTSTAMP:20190415T053712Z
+UID:1e2c37ojcdgfdmiv8h4hkpchqs@google.com
+CREATED:20130812T160823Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160823Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Grade of Incomplete from Preceding Semester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140121
+DTEND;VALUE=DATE:20140122
+DTSTAMP:20190415T053712Z
+UID:90aptkcs6brgj1skshfrbcgbb8@google.com
+CREATED:20130812T160627Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160627Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw from Course Without a Record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140114
+DTEND;VALUE=DATE:20140115
+DTSTAMP:20190415T053712Z
+UID:3m7boc23p005aio43g49kivjqs@google.com
+CREATED:20130812T160555Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160555Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140108
+DTEND;VALUE=DATE:20140109
+DTSTAMP:20190415T053712Z
+UID:g0p3jev941lp3jm7qbo5esgrhs@google.com
+CREATED:20130812T160425Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160425Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:First Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131209
+DTEND;VALUE=DATE:20131214
+DTSTAMP:20190415T053712Z
+UID:aj4jvgiujh48t5brk28itnfihg@google.com
+CREATED:20130812T160344Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160344Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Exams
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131207
+DTEND;VALUE=DATE:20131208
+DTSTAMP:20190415T053712Z
+UID:kto6ekc6dk8vlsc4p1qild8r1k@google.com
+CREATED:20130812T160325Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160325Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131206
+DTEND;VALUE=DATE:20131207
+DTSTAMP:20190415T053712Z
+UID:p309ohh0pjea1tujpa5mmkoi78@google.com
+CREATED:20130812T160316Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160316Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day of Classes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131127
+DTEND;VALUE=DATE:20131202
+DTSTAMP:20190415T053712Z
+UID:vc860qsa5grj2jouuea1hq5ie8@google.com
+CREATED:20130812T160301Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160301Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131025
+DTEND;VALUE=DATE:20131028
+DTSTAMP:20190415T053712Z
+UID:2i1076cnv0gli0p8gkgl4a33sk@google.com
+CREATED:20130812T160058Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160058Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Homecoming
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131012
+DTEND;VALUE=DATE:20131021
+DTSTAMP:20190415T053712Z
+UID:tr5famu7o0hfkpiop7jm26sg5o@google.com
+CREATED:20130812T160026Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160026Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fall Break
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131009
+DTEND;VALUE=DATE:20131010
+DTSTAMP:20190415T053712Z
+UID:t7tqgov46q6nkt41t5dcdqsc64@google.com
+CREATED:20130812T160004Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T160004Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-term Grades Due
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130930
+DTEND;VALUE=DATE:20131001
+DTSTAMP:20190415T053712Z
+UID:ugavnh7su8tduphmrlnpcpsgg8@google.com
+CREATED:20130812T155803Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155803Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grad Apps. Due for May & Summer 2014
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130927
+DTEND;VALUE=DATE:20130930
+DTSTAMP:20190415T053712Z
+UID:k6u8i7hi1f4u596b7i9odt8e5o@google.com
+CREATED:20130812T155726Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155726Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family Weekend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130920
+DTEND;VALUE=DATE:20130921
+DTSTAMP:20190415T053712Z
+UID:g8rjhl50k90ak4mf0jqg8k5p54@google.com
+CREATED:20130812T155620Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155620Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Early Progress Report Deadline
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130918
+DTEND;VALUE=DATE:20130919
+DTSTAMP:20190415T053712Z
+UID:utbdtq3avr33gs1ppjdm48g4to@google.com
+CREATED:20130812T155602Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155602Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Remove Incomplete
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130903
+DTEND;VALUE=DATE:20130904
+DTSTAMP:20190415T053712Z
+UID:fsc4ib0etpnarkg82o5n3ft108@google.com
+CREATED:20130812T155525Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155525Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Withdraw From a Course Without Record
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130827
+DTEND;VALUE=DATE:20130828
+DTSTAMP:20190415T053712Z
+UID:v78lg4ihlj97s8m24lne845if4@google.com
+CREATED:20130812T155453Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155453Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last Day to Add Courses
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130821
+DTEND;VALUE=DATE:20130822
+DTSTAMP:20190415T053712Z
+UID:lrvi7ncanji2fvnllgdhiortk4@google.com
+CREATED:20130812T155355Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155436Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Classes Begin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130820T210000Z
+DTEND:20130820T220000Z
+DTSTAMP:20190415T053712Z
+UID:amfhat2aesbiq6ksb0sbtmi8v0@google.com
+CREATED:20130812T155342Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155342Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Convocation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130814
+DTEND;VALUE=DATE:20130817
+DTSTAMP:20190415T053712Z
+UID:3c9k9bklmnkbe3k8t2hupj8mng@google.com
+CREATED:20130812T155158Z
+DESCRIPTION:
+LAST-MODIFIED:20130812T155229Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Faculty Development
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
